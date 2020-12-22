@@ -13,7 +13,7 @@ VNC server | RealVNC | VNC Server |
  | | TigerVNC |
 Image viewer | | IrfanView | 
  | | XnView 
-Image editor | Paint.NET |
+Image editor | | [Paint.NET](http://paintnet.ru) | 4.2.14 |
 Scanning | | NAPS2 |
 Video player | | SMPlayer
  | | | VLC
