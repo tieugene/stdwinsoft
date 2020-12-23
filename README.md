@@ -1,5 +1,5 @@
 # StdWinSoft
-Standard Microsoft &trade; Windows &trade; software.
+Standard Microsoft &trade; Windows &trade; software:
 
 - Office suite: [The Document Foundation](https://www.documentfoundation.org) [LibreOffice](https://www.libreoffice.org)
 - Archiver: [7-zip](http://7zip.org)
@@ -16,5 +16,5 @@ Standard Microsoft &trade; Windows &trade; software.
 ## etc
 - Java: [Oracle](https://www.oracle.com) [Java](https://www.java.com)
 - CryptoPRO
-
+----
 See [current](Current.md) state.
