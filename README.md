@@ -16,3 +16,5 @@ Standard Microsoft &trade; Windows &trade; software.
 ## etc
 - Java: [Oracle](https://www.oracle.com) [Java](https://www.java.com)
 - CryptoPRO
+
+See [current](Current.md) state.
